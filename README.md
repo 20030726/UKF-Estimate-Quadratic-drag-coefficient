@@ -4,5 +4,5 @@ This project is focused on estimating the **Quadratic drag coefficient** of 2D p
 
 ## Structure
 
-- **[Code branch](https://github.com/your-repo/tree/code)**: Contains the source code for the UKF implementation.
-- **[PPT branch](https://github.com/your-repo/tree/ppt)**: Contains the project presentation.
+- **[Code branch](https://github.com/UKF-Estimate-Quadratic-drag-coefficient/tree/code)**: Contains the source code for the UKF implementation.
+- **[PPT branch](https://github.com/UKF-Estimate-Quadratic-drag-coefficient/tree/ppt)**: Contains the project presentation.
